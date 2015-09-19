@@ -1,6 +1,6 @@
-# hackmit
+# HackMIT 2015
 
 Annie Zhang
-Piyali Mukherjee
-Jackie Luo
 Anshul Gupta
+Jackie Luo
+Piyali Mukherjee
