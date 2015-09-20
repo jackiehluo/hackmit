@@ -1,8 +1,10 @@
 # HackMIT 2015
 
+###### Utilization of Kalman Filters to detect the motion and analyze the motion of customers for small-scale businesses
+
 - Annie Zhang
 - Anshul Gupta
 - Jackie Luo
 - Piyali Mukherjee
 
-Dashboard based on https://github.com/adilmoujahid/DonorsChoose_Visualization/blob/master/requirements.txt
+Dashboard based on [DonorsChoose](https://github.com/adilmoujahid/DonorsChoose_Visualization/blob/master/requirements.txt).
