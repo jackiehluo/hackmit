@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,700);
+
+* {
+	font-family: "Source Sans Pro";
+}
+#number-projects-nd {
+    font-size: 60px;
+}
+
+#total-donations-nd {
+    font-size: 60px;
+}
+
+.chart-title {
+    fill: black;
+    font-size: 35px;
+}
+
+.first {
+	margin-top: 50px;
+}
+
+path { 
+   stroke: steelblue;
+   stroke-width: 2;
+   fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+.floating-box {
+    position: absolute;
+    right: 50px;
+ 	border-left: 4px solid #8964FF;
+ 	width: 200px;
+    height: 80%;
+    top: 80px;
+}
+.container-fluid {
+	margin-left: 50px;
+}
+
+.arrow {
+	float: left;
+	padding-left: 8px;
+	padding-top: 25px;
+}
+
+.number {
+	float:left;
+}
+
+.navbar-inverse {
+	background-color: #8964FF;
+	border-color: #8964FF;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #Fff;
+}
+
+.floating-text {
+	padding-left: 12px;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #8964FF;
+    border-color: #8964FF;
+        position: absolute;
+    right: 70px;
+    bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
