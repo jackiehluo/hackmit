@@ -81,3 +81,7 @@ path {
 .bold {
     font-weight: bold;
 }
+
+.photo {
+    max-width: 60px;
+}
