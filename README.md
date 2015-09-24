@@ -7,8 +7,6 @@
 - Jackie Luo
 - Piyali Mukherjee
 
-Video link here [Sensei in action] (https://www.youtube.com/watch?v=bkN14S4BR5U).
-
-[Sensei in Action] (https://raw.github.com/ambientmemory/hackmit/sensei_screenshot.png)(https://www.youtube.com/watch?v=bkN14S4BR5U)
+[![Sensei in action](https://j.gifs.com/m2GGMJ.gif)](https://www.youtube.com/watch?v=bkN14S4BR5U)
 
 Dashboard based on [DonorsChoose](https://github.com/adilmoujahid/DonorsChoose_Visualization/blob/master/requirements.txt).
