@@ -1,4 +1,4 @@
-# Sensei - HackMIT 2015
+# Sensei (HackMIT 2015)
 
 ###### Utilization of Kalman Filters to detect and analyze motion of people for real-world analytics.
 
