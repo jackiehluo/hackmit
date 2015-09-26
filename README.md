@@ -1,5 +1,7 @@
 # HackMIT 2015
 
+3rd Place
+
 ###### Utilization of Kalman Filters to detect the motion and analyze the motion of customers for small-scale businesses
 
 - Annie Zhang
